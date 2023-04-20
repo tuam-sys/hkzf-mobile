@@ -1,0 +1,10 @@
+.navBar {
+    /* 组件应该保持默认的基本样式，对于页面单独需要的样式，在页面中单独指定就可以了 */
+    /* margin-top: -45px; */
+    color: #333;
+    background-color: #f6f5f6;
+}
+/* 全局类名 */
+.navBar :global(.am-navbar-title) {
+    color: #333;
+  }

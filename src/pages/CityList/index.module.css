@@ -1,0 +1,7 @@
+.test {
+    color: red;
+    font-size: 20px;
+}
+.citylist :global(.am-navbar) {
+    margin-top: -45px;
+}

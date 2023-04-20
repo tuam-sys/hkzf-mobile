@@ -1,0 +1,10 @@
+.tabbar {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
+.tabitem {
+  flex: 1;
+}
